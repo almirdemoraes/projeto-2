@@ -1,1 +1,1 @@
-Projeto teste para aprendizado git/github
+Projeto teste para aprendizado do git/github
