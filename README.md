@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 
@@ -1860,3 +1861,6 @@
   </body>
 </html>
 
+=======
+Projeto teste para aprendizado do git/github
+>>>>>>> origin/main
